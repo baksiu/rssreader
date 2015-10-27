@@ -1,2 +1,4 @@
 # rssreader
-Simple web based RSS feed reader with accounts feature. 
+Simple web based RSS feed reader with accounts feature.
+
+Project ongoing.
