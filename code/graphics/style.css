@@ -1,0 +1,89 @@
+
+#zew{
+	position: absolute;
+	top:5px;
+	left:5px;
+	right:5px;
+	bottom:5px;
+	min-height: 700px;
+	min-width: 1450px;	
+	background-color: black;
+}
+#up{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	right: 20px;
+	background-color: gray;
+	height: 100px;
+}
+#middle{
+
+	position: absolute;
+	top: 150px;
+	left: 550px;
+	right: 660px;
+	bottom: 150px;
+	min-width: 600px;
+	background-color: yellow;
+}
+#left{
+	
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	width: 200px;
+	height: 400px;
+	/*background-color: yellow;*/
+}
+#right{
+	position: absolute;
+	top: 150px;
+	right: 50px;
+	width: 200px;
+	height: 400px;
+	background-color: yellow;
+}
+#bottom{
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	right: 20px;
+	height: 100px;
+	background-color: gray;
+}
+table#center{
+    margin-left:auto; 
+    margin-right:auto;
+}
+ul.menu_lewe, ul.menu_lewe li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+ul.menu_lewe {
+	width: 200px;
+}
+
+ul.menu_lewe a:link, ul.menu_lewe a:visited {
+	display: block;
+	width: 186px;
+	text-decoration: none;
+	color: #000;
+	background-color: yellow;
+	padding: 5px;
+	border: 2px outset #bbb;
+}
+
+ul.menu_lewe a:hover {
+	border-style: inset;
+	padding: 7px 3px 3px 7px;
+}
+ul.menu_prawe{
+	list-style: circle;
+}
+ul.menu_prawe a:hover {
+	text-shadow: 2px 2px #ff0000;
+}
+
